@@ -1,0 +1,5 @@
+{
+  "name": "AI Career Coach",
+  "description": "An intelligent assistant that recommends job roles, skills to learn, and personalized career paths using Gemini. Input your profile, get job recommendations, analyze skill gaps, generate a learning path, and get resume feedback.",
+  "requestFramePermissions": []
+}
